@@ -2,7 +2,9 @@ Je suis camerounaise.
 
 J'aime les mathématiques.
 
-Je viens du Cameroun.
+je viens du Cameroun.
 
-Je suis ingenieur 
-A l'Ensae!
+Je suis ingenieur.
+Voici l'histoir.
+
+ENSAE
